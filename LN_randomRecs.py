@@ -197,3 +197,4 @@ if __name__ == "__main__":
 
 
 ##Hanekawa best girl
+###Senjou is good though
