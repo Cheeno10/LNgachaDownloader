@@ -194,3 +194,6 @@ if __name__ == "__main__":
     if my_novels:
         app = LNRandApp(my_novels)
         app.mainloop()
+
+
+##Hanekawa best girl
